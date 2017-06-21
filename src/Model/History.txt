@@ -1,0 +1,11 @@
+2017-3-22  18 : 21
+0 Suju 3
+1 Beer 2
+2 Ramen 4
+3 SteamEgg 4
+2017-3-22  18 : 25
+0 Suju 3
+1 Beer 3
+2 LikeStart 3
+3 Ramen 6
+4 SteamEgg 3

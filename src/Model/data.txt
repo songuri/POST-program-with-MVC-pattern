@@ -1,0 +1,9 @@
+0 Suju 4000
+0 Beer 4000
+0 LikeStart 4000
+0 JaMong 4000
+0 Coke 2000
+1 Ramen 5000
+1 SteamEgg 5000
+1 ABC 6000
+1 ABCD 5000
